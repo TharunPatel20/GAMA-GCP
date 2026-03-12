@@ -36,8 +36,8 @@ Below are the images demonstrating my solution for the GCP Capstone Project (Lab
 **3.2: Startup Script & Deployment**  
 ![GCP capstone project Solution](images/3-2_startup-script.png)
 
-**3.3: Dashboard Verification**  
-![GCP capstone project Solution](images/3-3_dashboard.png)
+<!-- **3.3: Dashboard Verification**  
+![GCP capstone project Solution](images/3-3_dashboard.png) -->
 
 ---
 
@@ -56,10 +56,7 @@ Below are the images demonstrating my solution for the GCP Capstone Project (Lab
 
 ### Phase 5: Content Update Flow
 
-**5.1: Updating Content Without VM Access**  
-![GCP capstone project Solution](images/5-1_content-update.png)
-
-**5.2: Dashboard Reflecting New Content**  
+**Dashboard Reflecting New Content**  
 ![GCP capstone project Solution](images/5-2_dashboard-updated.png)
 
 ---
