@@ -1,7 +1,7 @@
 # GCP Capstone Project Solution
 
 This is my solution for the **GCP Capstone Project**.  
-Below are the screenshots and images illustrating the solution.
+Below are the links to the solution.
 
 ---
 
