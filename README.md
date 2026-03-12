@@ -10,10 +10,10 @@ Below are the links to the solution.
 - **Lab-7 Solution**: [Lab-7-Solution/README.md](Lab-7-Solution/README.md)
 
 
-- **Lab-8 Solution**: [Lab-8-Solution/README.md](Lab-7-Solution/README.md)
+- **Lab-8 Solution**: [Lab-8-Solution/README.md](Lab-8-Solution/README.md)
 
 
-- **Lab-9 Solution**: [Lab-9-Solution/README.md](Lab-7-Solution/README.md)
+- **Lab-9 Solution**: [Lab-9-Solution/README.md](Lab-9-Solution/README.md)
 
 ---
 

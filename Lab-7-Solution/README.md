@@ -1,4 +1,4 @@
-# Capstone Project Solution-1
+# Capstone Project-1 Solution
 
 Below are the images demonstrating my solution for the GCP Capstone Project (Lab-7).
 
