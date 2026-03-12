@@ -57,7 +57,7 @@ Below are the images demonstrating my solution for the GCP Capstone Project (Lab
 ### Phase 5: Content Update Flow
 
 **Dashboard Reflecting New Content**  
-![GCP capstone project Solution](images/5-2_dashboard-updated.png)
+![GCP capstone project Solution](images/5_dashboard-updated.png)
 
 ---
 
